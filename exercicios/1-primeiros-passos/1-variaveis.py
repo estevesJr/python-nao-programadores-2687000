@@ -4,8 +4,9 @@
 # - E não podemos usar palavras reservadas do Python, como if, for, from, etc. 
 
 # Declare variáveis do tipo string
-
+vTexto = 'Teste'
 # Declare variáveis de cada tipo numérico
-
-
+vInt = 123
+vFloat = 1.23
 # Declare uma variável do tipo booleano
+vBool = True
